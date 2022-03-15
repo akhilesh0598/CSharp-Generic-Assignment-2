@@ -1,0 +1,16 @@
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\bin\Debug\net5.0\GenericAssignment2.exe
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\bin\Debug\net5.0\GenericAssignment2.deps.json
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\bin\Debug\net5.0\GenericAssignment2.runtimeconfig.json
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\bin\Debug\net5.0\GenericAssignment2.runtimeconfig.dev.json
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\bin\Debug\net5.0\GenericAssignment2.dll
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\bin\Debug\net5.0\ref\GenericAssignment2.dll
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\bin\Debug\net5.0\GenericAssignment2.pdb
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\obj\Debug\net5.0\GenericAssignment2.csproj.AssemblyReference.cache
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\obj\Debug\net5.0\GenericAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\obj\Debug\net5.0\GenericAssignment2.AssemblyInfoInputs.cache
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\obj\Debug\net5.0\GenericAssignment2.AssemblyInfo.cs
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\obj\Debug\net5.0\GenericAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\obj\Debug\net5.0\GenericAssignment2.dll
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\obj\Debug\net5.0\ref\GenericAssignment2.dll
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\obj\Debug\net5.0\GenericAssignment2.pdb
+C:\Users\akhil\source\repos\GenericAssignment2\GenericAssignment2\obj\Debug\net5.0\GenericAssignment2.genruntimeconfig.cache
